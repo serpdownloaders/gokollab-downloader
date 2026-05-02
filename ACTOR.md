@@ -2,6 +2,10 @@
 
 > Save GoKollab content instantly to your device.
 
+## Get it Here
+
+Get it here: https://serp.ly/gokollab-downloader
+
 ## Get the extension
 
 **Install here:** [GoKollab Downloader](https://serp.ly/gokollab-downloader)
